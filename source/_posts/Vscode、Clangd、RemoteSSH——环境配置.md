@@ -9,7 +9,7 @@ categories:
   - DIY
 abbrlink: af2bf757
 date: 2024-05-24 17:01:21
-updated: 2024-05-27 13:20:44
+updated: 2024-06-07 11:47:29
 ---
 
 > 使用场景：Windows 端 Vscode 使用 RemoteSSH 插件远程连接到 fedora 系统，并且项目源码是在 fedora 上。
@@ -34,7 +34,7 @@ updated: 2024-05-27 13:20:44
 
 在 VScode 的插件里面搜索 “Clangd” 并且安装。
 
-打开 VScode 设置：
+安装完毕后，打开 VScode 设置：
 
 ![](911d5ef43a63ee4d32ac535e675f78c1_MD5.jpeg)
 
