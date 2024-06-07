@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://jwlee36963.github.io/seo_sitemap.xml
+Sitemap: https://jwlee36963.github.io/post-sitemap.xml
+Sitemap: https://jwlee36963.github.io/page-sitemap.xml
